@@ -1,0 +1,14 @@
+.pokedex h2 {
+  font-size: 2em;
+  margin-top: 32px;
+  margin-bottom: 16px;
+  color: yellow;
+  text-align: center;
+}
+
+.pokedex-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 18px;
+  padding: 0px 10px 20px 10px;
+}

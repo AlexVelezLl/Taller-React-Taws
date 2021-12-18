@@ -1,0 +1,15 @@
+header {
+  width: 100%;
+  display: block;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-container img {
+  width: 200px;
+  height: 200px;
+}
